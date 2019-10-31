@@ -15,4 +15,5 @@ Back-end uses json-server and a static JSON file.
 # Screenshots
 
 ![Screenshot 01](/.github/screen01.png)
+
 ![Screenshot 02](/.github/screen02.png)

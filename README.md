@@ -3,7 +3,7 @@
 
 A shopping cart application developed at Rocketseat's GoStack Bootcamp (https://rocketseat.com.br/bootcamp).
 
-Front-end build with ReactJs, Redux and Redux Saga.
+Front-end built with ReactJs, Redux and Redux Saga.
 
 Back-end uses json-server and a static JSON file.
 

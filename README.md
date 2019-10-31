@@ -9,7 +9,7 @@ Back-end uses json-server and a static JSON file.
 
 # How to Run
 * `yarn` to download dependencies;
-* `yarn run api` starts json-server on port 333
+* `yarn run api` starts json-server on port 3333
 * `yarn run start` starts the application on port 3000
 
 # Screenshots

@@ -1,6 +1,5 @@
 ![Rocketshoes Logo](/.github/logo.png)
 # About
-A shopping cart application developed at Rocketseat's GoStack Bootcamp
 
 A shopping cart application developed at Rocketseat's GoStack Bootcamp (https://rocketseat.com.br/bootcamp).
 
